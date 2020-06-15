@@ -1,0 +1,14 @@
+
+carousel-list {    
+    list-style: none;
+}
+ 
+.carousel-element {
+    display: block;
+    margin-right: 80px;
+    float: left;
+}
+ 
+.carousel-element img {
+    max-width: 200px;
+}
