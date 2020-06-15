@@ -1,0 +1,36 @@
+
+carousel-list {    
+    list-style: none;
+}
+ 
+.carousel-element {
+    display: block;
+    margin-right: 80px;
+    float: left;
+}
+ 
+.carousel-element img {
+    max-width: 200px;
+}
+
+button {
+  background-color:; 
+    color: white;
+    text-align:left;
+    text-decoration:none;
+    display:inline;
+    font-size: 16px;
+	border: 4px  black; 
+    background: blue; 
+    padding: 10px; 
+}
+a{
+	background-color:; 
+    color: white;
+    text-align:left;
+    text-decoration:none;
+    display:inline;
+    font-size: 16px;
+	border: 4px  black; 
+    background: blue; 
+	padding: 10px; }
